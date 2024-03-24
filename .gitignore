@@ -1,0 +1,70 @@
+# 忽略目录
+/target/
+/bin/
+/out/
+/.idea/
+/.vscode/
+/.gradle/
+/.settings/
+/.classpath/
+/.project/
+
+# User-specific stuff
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+# Generated files
+.idea/**/contentModel.xml
+# Sensitive or high-churn files
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+.idea/**/dbnavigator.xml
+# Gradle
+.idea/**/gradle.xml
+.idea/**/libraries
+
+# 忽略编译产物
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# 忽略依赖管理工具产生的文件
+# Maven
+target/
+pom.xml.tag
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/
+
+# Gradle
+.gradle/
+build/
+
+# Eclipse
+.metadata/
+*.tmp/
+*.bak/
+*.swp/
+*.snap/
+Thumbs.db
+ehthumbs.db/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea_modules/
+.ideaWorkspace/
+
+# Visual Studio Code
+.vscode/
